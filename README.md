@@ -24,3 +24,6 @@ Total Quantity Sold: Analyze sales volume alongside revenue to identify high-dem
 Best-Selling Categories: Pinpoint the most popular product categories to optimize inventory management and marketing campaigns.
 
 Category Consumption by Gender: Discover gender-specific buying trends to refine product offerings and target advertising.
+
+
+Find the link for the Report - https://lookerstudio.google.com/s/lBQ-cs7fMs0
